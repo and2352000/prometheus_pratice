@@ -1,2 +1,10 @@
 data/**
 !data/.gitKeep
+
+!data/grafana
+data/grafana/*
+!data/grafana/grafana.ini
+
+!data/prometheus
+data/prometheus/*
+!data/prometheus/prometheus.yml
