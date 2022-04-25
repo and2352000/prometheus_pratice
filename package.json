@@ -1,0 +1,25 @@
+{
+  "name": "prometheus_test",
+  "version": "1.0.0",
+  "description": "``` docker compose up ```",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/and2352000/prometheus_pratice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/and2352000/prometheus_pratice/issues"
+  },
+  "homepage": "https://github.com/and2352000/prometheus_pratice#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "prom-client": "^14.0.1"
+  }
+}

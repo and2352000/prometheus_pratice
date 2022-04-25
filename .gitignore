@@ -8,3 +8,5 @@ data/grafana/*
 !data/prometheus
 data/prometheus/*
 !data/prometheus/prometheus.yml
+
+node_modules
